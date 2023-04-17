@@ -1,1 +1,3 @@
-# Leapmotion-theremin
+# Leapmotion-Synth
+
+The Max/Live Patch, named Leap Synth, is a VST synth that utilizes hand position data acquired through the Leap Motion system to provide touch-free control of the software. The patch is capable of synthesizing sound and controlling pitch and volume based on proximity to the hand sensor. The X-axis data from the right hand is used to control pitch, while Y-axis data is used to control volume. The left hand is used to trigger the addition of extra notes to create chords, with the index finger controlling the 3rd degree of the chord and the pinky controlling the 5th. The tremolo has its own on/off function, allowing the user to choose which parts of the synth are affected by it. Additionally, the Hold function enables the user to hold a specific note without changing pitch. Overall, the Leap Synth is a modern twist on the Theremin technology, offering an alternative way to express and control sound through hand movements.
